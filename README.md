@@ -49,6 +49,6 @@ The analysis provides several key takeaways:
 1-Slight injuries account for the majority of total casualties, but fatal accidents need urgent attention due to their severity.
 2-Cars and motorcycles are involved in the majority of casualties.
 3-Urban area contains maximum casualties.
-3-Wet/icy road conditions pose significant risks.
-4-Casualty trends reveal seasonal patterns, and night-time accidents in rural areas need additional safety measures such as better lighting or road signs.
-5-These insights can guide stakeholders in formulating road safety policies and improving infrastructure to reduce accident rates and casualties.
+4-Wet/icy road conditions pose significant risks.
+5-Casualty trends reveal seasonal patterns, and night-time accidents in rural areas need additional safety measures such as better lighting or road signs.
+6-These insights can guide stakeholders in formulating road safety policies and improving infrastructure to reduce accident rates and casualties.
